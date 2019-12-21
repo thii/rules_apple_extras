@@ -34,10 +34,10 @@ targets work with Bazel.
 
 #### Reference
 
-https://github.com/bazelbuild/rules_apple/blob/0.19.0/doc/rules-resources.md#apple_resource_bundle
-https://github.com/bazelbuild/rules_apple/issues/679
-https://github.com/bazelbuild/rules_apple/pull/680
-https://github.com/bazelbuild/rules_apple/pull/681
+- https://github.com/bazelbuild/rules_apple/blob/0.19.0/doc/rules-resources.md#apple_resource_bundle
+- https://github.com/bazelbuild/rules_apple/issues/679
+- https://github.com/bazelbuild/rules_apple/pull/680
+- https://github.com/bazelbuild/rules_apple/pull/681
 
 ## Quick setup
 
