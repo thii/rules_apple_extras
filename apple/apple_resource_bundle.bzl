@@ -1,3 +1,4 @@
+load("@bazel_skylib//lib:paths.bzl", "paths")
 load(
     "@build_bazel_rules_apple//apple:resources.bzl",
     _apple_resource_bundle = "apple_resource_bundle",
