@@ -7,8 +7,8 @@ can be used to build libraries for Apple platforms.
 
 ### `objc_library`
 
-Produces a static library from the given Objective-C source files, with (kind
-of) support for header maps.
+Produces a static library from the given Objective-C source files, with support
+for header maps.
 
 In iOS development, conventionally, when depending on an Objective-C library,
 you can import its public headers using the system include syntax (`#import
